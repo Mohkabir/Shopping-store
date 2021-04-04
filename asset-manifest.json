@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Shopping-store/static/css/main.73f92403.chunk.css",
+    "main.js": "/Shopping-store/static/js/main.9d6de5bd.chunk.js",
+    "main.js.map": "/Shopping-store/static/js/main.9d6de5bd.chunk.js.map",
+    "runtime-main.js": "/Shopping-store/static/js/runtime-main.711658dc.js",
+    "runtime-main.js.map": "/Shopping-store/static/js/runtime-main.711658dc.js.map",
+    "static/js/2.e734eca8.chunk.js": "/Shopping-store/static/js/2.e734eca8.chunk.js",
+    "static/js/2.e734eca8.chunk.js.map": "/Shopping-store/static/js/2.e734eca8.chunk.js.map",
+    "index.html": "/Shopping-store/index.html",
+    "static/css/main.73f92403.chunk.css.map": "/Shopping-store/static/css/main.73f92403.chunk.css.map",
+    "static/js/2.e734eca8.chunk.js.LICENSE.txt": "/Shopping-store/static/js/2.e734eca8.chunk.js.LICENSE.txt",
+    "static/media/bag1.7ad8e098.jpg": "/Shopping-store/static/media/bag1.7ad8e098.jpg",
+    "static/media/beautyHealth1.5fcc5575.jpg": "/Shopping-store/static/media/beautyHealth1.5fcc5575.jpg",
+    "static/media/menAccessory1.5f9a3fcd.jpg": "/Shopping-store/static/media/menAccessory1.5f9a3fcd.jpg",
+    "static/media/menShoe1.76ca611c.jpg": "/Shopping-store/static/media/menShoe1.76ca611c.jpg",
+    "static/media/smile.2d2dde74.jpg": "/Shopping-store/static/media/smile.2d2dde74.jpg",
+    "static/media/womenAccesory1.704b8641.jpg": "/Shopping-store/static/media/womenAccesory1.704b8641.jpg",
+    "static/media/womenShoe.4260aa7e.jpg": "/Shopping-store/static/media/womenShoe.4260aa7e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.711658dc.js",
+    "static/js/2.e734eca8.chunk.js",
+    "static/css/main.73f92403.chunk.css",
+    "static/js/main.9d6de5bd.chunk.js"
+  ]
+}

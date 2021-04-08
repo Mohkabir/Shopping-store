@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Shopping-store/static/css/main.c8adfc2c.chunk.css",
-    "main.js": "/Shopping-store/static/js/main.4dcbbc65.chunk.js",
-    "main.js.map": "/Shopping-store/static/js/main.4dcbbc65.chunk.js.map",
+    "main.css": "/Shopping-store/static/css/main.f24141b2.chunk.css",
+    "main.js": "/Shopping-store/static/js/main.0924c13b.chunk.js",
+    "main.js.map": "/Shopping-store/static/js/main.0924c13b.chunk.js.map",
     "runtime-main.js": "/Shopping-store/static/js/runtime-main.711658dc.js",
     "runtime-main.js.map": "/Shopping-store/static/js/runtime-main.711658dc.js.map",
     "static/js/2.760ac43d.chunk.js": "/Shopping-store/static/js/2.760ac43d.chunk.js",
     "static/js/2.760ac43d.chunk.js.map": "/Shopping-store/static/js/2.760ac43d.chunk.js.map",
     "index.html": "/Shopping-store/index.html",
-    "static/css/main.c8adfc2c.chunk.css.map": "/Shopping-store/static/css/main.c8adfc2c.chunk.css.map",
+    "static/css/main.f24141b2.chunk.css.map": "/Shopping-store/static/css/main.f24141b2.chunk.css.map",
     "static/js/2.760ac43d.chunk.js.LICENSE.txt": "/Shopping-store/static/js/2.760ac43d.chunk.js.LICENSE.txt",
     "static/media/bag1.7ad8e098.jpg": "/Shopping-store/static/media/bag1.7ad8e098.jpg",
     "static/media/beautyHealth1.5fcc5575.jpg": "/Shopping-store/static/media/beautyHealth1.5fcc5575.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.711658dc.js",
     "static/js/2.760ac43d.chunk.js",
-    "static/css/main.c8adfc2c.chunk.css",
-    "static/js/main.4dcbbc65.chunk.js"
+    "static/css/main.f24141b2.chunk.css",
+    "static/js/main.0924c13b.chunk.js"
   ]
 }

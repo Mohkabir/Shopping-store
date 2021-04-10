@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Soko-Shopping-carts/static/css/main.fa013fdc.chunk.css",
+    "main.js": "/Soko-Shopping-carts/static/js/main.ebac7ce8.chunk.js",
+    "main.js.map": "/Soko-Shopping-carts/static/js/main.ebac7ce8.chunk.js.map",
+    "runtime-main.js": "/Soko-Shopping-carts/static/js/runtime-main.c2aa3ddd.js",
+    "runtime-main.js.map": "/Soko-Shopping-carts/static/js/runtime-main.c2aa3ddd.js.map",
+    "static/js/2.a0ef70b8.chunk.js": "/Soko-Shopping-carts/static/js/2.a0ef70b8.chunk.js",
+    "static/js/2.a0ef70b8.chunk.js.map": "/Soko-Shopping-carts/static/js/2.a0ef70b8.chunk.js.map",
+    "index.html": "/Soko-Shopping-carts/index.html",
+    "static/css/main.fa013fdc.chunk.css.map": "/Soko-Shopping-carts/static/css/main.fa013fdc.chunk.css.map",
+    "static/js/2.a0ef70b8.chunk.js.LICENSE.txt": "/Soko-Shopping-carts/static/js/2.a0ef70b8.chunk.js.LICENSE.txt",
+    "static/media/logo.588fc5a7.jpg": "/Soko-Shopping-carts/static/media/logo.588fc5a7.jpg",
+    "static/media/smile.2d2dde74.jpg": "/Soko-Shopping-carts/static/media/smile.2d2dde74.jpg",
+    "static/media/womenAccesory1.704b8641.jpg": "/Soko-Shopping-carts/static/media/womenAccesory1.704b8641.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2aa3ddd.js",
+    "static/js/2.a0ef70b8.chunk.js",
+    "static/css/main.fa013fdc.chunk.css",
+    "static/js/main.ebac7ce8.chunk.js"
+  ]
+}

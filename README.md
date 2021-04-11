@@ -9,7 +9,7 @@ clone this repository
 
 cd into this project directory
 
-go to your command promp or terminal and run npm init
+go to your command promp or terminal and run npm install
 
 then run npm start.
 
